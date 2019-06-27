@@ -59,3 +59,9 @@
 "You know... this place is starting to have a musty smell to it. It's getting hard to breathe, I don't want to stick around for long."
 "Some fresh air would be nice, and if I'm gonna try to find anyone, they're probably not gonna show up in my bedroom."
 "I stretched out a bit, feeling my muscles relax from the stiffness I had earlier. After that, I walked out the door at the corner of the room, and found myself in what looked like a town square."
+"The soft sounds of the ocean waves hitting the shore I heard in the room became clearer, like a pair of misty glasses getting wiped."
+"The gentle sound of the waves and the gentle wind blowing onto my face was certainly relaxing, but I still felt just as confused as I was before."
+"I took a few glances around the town square. The town square was empty, not a single person was in sight."
+"The sounds of the ocean and the wind became hollow, as if there was something missing. The comfort I once felt with them became a deathly silence, trying to pull me into an abyss."
+"I called out 
+"/"Hello?\""
