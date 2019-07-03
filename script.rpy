@@ -63,5 +63,7 @@
 "The gentle sound of the waves and the gentle wind blowing onto my face was certainly relaxing, but I still felt just as confused as I was before."
 "I took a few glances around the town square. The town square was empty, not a single person was in sight."
 "The sounds of the ocean and the wind became hollow, as if there was something missing. The comfort I once felt with them became a deathly silence, trying to pull me into an abyss."
-"I called out 
-"/"Hello?\""
+"I called out into the town square, becoming desperate for any response."
+"\"Hello?\""
+"..."
+"Once again, I was greeted with sile
