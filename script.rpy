@@ -66,4 +66,11 @@
 "I called out into the town square, becoming desperate for any response."
 "\"Hello?\""
 "..."
-"Once again, I was greeted with sile
+"Once again, I was only answered by more silence."
+"The road itself wasn't very fancy, it would just have been like any old street you'd see on the street."
+"Still, with no one here... it raises a pretty big red flag."
+"If no one was here, who was keeping it in this good condition?"
+"Puzzled, I went to look for more answers, moving on further away from the town square, to a nearby spot of greenery west of the square."
+"The mere sight of the garden was a marvel in itself. It was beautifully grown, a ring of blooming roses and daisies surrounded a tall oak tree, and an adorned gazebo lay at the middle of the garden.
+"Still curious to find anyone, I walked closer to the gazebo, taking a closer look at it. It was clean, but upon closer look..."
+"There was a thin layer of dust on the floor of the gazebo, almost like the first flakes of snow on a 
