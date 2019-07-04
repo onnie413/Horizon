@@ -6,6 +6,8 @@
 # No letter assigned: (internal dialogue, like thinking, or narration)
 # In addition, before Atlas gains his name, he will speak in \"*insert text here\"
 
+# DAY ONE
+
 "The soft sound of ocean waves hitting the soft shore was the first thing I remembered."
 "The next thing I remembered was the soft, warm, and bright rays of sunshine on my face, waking me from my gentle sleep."
 "That's about all I could remember. Besides that, my mind was clear, I couldn't recall my age, name, or anything like that."
@@ -73,4 +75,23 @@
 "Puzzled, I went to look for more answers, moving on further away from the town square, to a nearby spot of greenery west of the square."
 "The mere sight of the garden was a marvel in itself. It was beautifully grown, a ring of blooming roses and daisies surrounded a tall oak tree, and an adorned gazebo lay at the middle of the garden.
 "Still curious to find anyone, I walked closer to the gazebo, taking a closer look at it. It was clean, but upon closer look..."
-"There was a thin layer of dust on the floor of the gazebo, almost like the first flakes of snow on a 
+"There was a thin layer of dust on the floor of the gazebo, almost like the first flakes of snow on a cold winter morning."
+"Chances are, no one's been here either, since this dust hasn't been disturbed in a while."
+"*sighs*"
+"\"What kind of place is this?\""
+"\"I just want to find someone, anyone!\""
+"\"Not only is there no one here, I'm lost as all fuck!\""
+"\"Who the hell am I?!\""
+"I shouted that question to the skies, who just as before, answered me with apathy."
+"Frustrated, I headed back to the town square, tired and confused by the situation I was in."
+"Maybe I took a wrong turn, but it wasn't the town square that I ended up.
+"Am I... at a beach...?"
+"Is this town... on the coast? Or maybe... it was an island?"
+"I looked around me, and the beach stretched far beyond what I could see, like the horizon."
+"I gazed upon the waters, to see if there was any kind of land I could spot."
+"All that greeted me was the line that the sky touched the water, no land in sight."
+"Still confused by how I ended up on the shore instead of the town square, I was about to turn back so I could head to back, until I saw what appeared to be a silhouette of someone on the sand."
+"There appears to be someone here."
+"A girl, I think.
+q"..."
+
