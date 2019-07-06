@@ -73,7 +73,7 @@
 "Still, with no one here... it raises a pretty big red flag."
 "If no one was here, who was keeping it in this good condition?"
 "Puzzled, I went to look for more answers, moving on further away from the town square, to a nearby spot of greenery west of the square."
-"The mere sight of the garden was a marvel in itself. It was beautifully grown, a ring of blooming roses and daisies surrounded a tall oak tree, and an adorned gazebo lay at the middle of the garden.
+"The mere sight of the garden was a marvel in itself. It was beautifully grown, a ring of blooming roses and daisies surrounded a tall oak tree, and an adorned gazebo lay at the middle of the garden."
 "Still curious to find anyone, I walked closer to the gazebo, taking a closer look at it. It was clean, but upon closer look..."
 "There was a thin layer of dust on the floor of the gazebo, almost like the first flakes of snow on a cold winter morning."
 "Chances are, no one's been here either, since this dust hasn't been disturbed in a while."
@@ -111,4 +111,5 @@ q"It doesn't matter."
 q"You. Come. Don't make me repeat myself, alright?"
 "Honestly, she sort of bugged me and came off as bratty, but she's probably the best chance I have of learning what was going on with the town."
 "I followed her as she walked on the shoreline, just far enough from the waves to stay dry."
+"The tension in the air felt so tight I felt as if I could choke on it. Trying to break the tension, I tried to make small talk with her."
 
