@@ -176,4 +176,9 @@ a"I... I don't really know, but... I promise that I'll be here tomorrow, as earl
 l"Ok."
 "She simply nodded, turned, and leaved. Honestly, I wanted to ask another question, but when I turned around, all I saw were light footprints in the sand."
 "The gentle night wind laid a light blanket of sand over the footprints, and the beach turned pristine once again, like she'd never been there."
-
+"I felt the land breeze, like a gentle push for me to reach closer to the sea. I made my way closer to the edge of the shore, but..."
+"I realised how tired I was. Even though I hadn't really done anything all day, my body ached, and begged to go to sleep."
+"Tired, I made my to the garden, so I could go back to my room."
+"In the night time, the flowers looked even more pretty, shining from the moonlight."
+"I looked at the gazebo, and the layer of dust caught my eye again. I saw light footsteps on the wood floor. There was no ocean to wipe away the footprints."
+"It wasn't a dream. She was real. I wasn't really alone here."
