@@ -243,5 +243,12 @@ a"Wait! I just remembered! I promised I would meet Luna first thing in the morni
 "My heart skipped a beat, and I jumped out of bed, realising how late I was."
 a"Shit! I need to get to the beach {b}now{/b}! What if she already left?"
 "Without even changing or freshening up, I sprinted out of my room towards the beach, as fast as I could."
-
+"..."
+"She's just staring at me, emotionless. Is she... mad at me?"
+a"Hey Luna! Good morning, how are yo-"
+l"You're late."
+a"Yeah... sorry about that-"
+l"You overslept, didn't you?"
+a"Huh? How did you know that?"
+l"Easy. Your hair's a mess, and you haven't even changed since yesterday. Besides, 
 
