@@ -384,4 +384,6 @@ l"Looks like you still decided to follow me, very well. Welcome to the shopping 
 "The entire street was packed inch-to-inch with clothing stores, restaurants, and various other shops."
 "Just as you'd expect, the entire street was still empty of all life, except for Luna and me, I guess."
 l"As you've probably noticed by now, there's no one here, and all the lights are off too."
+a"Just like the rest of the island, right?"
+l"Indeed. It looks like our earlier theory is becoming increasingly valid."
 
