@@ -346,7 +346,7 @@ l"Oh... you're not joking. Well... a queen does need a jester. Carry on then, co
 a"Court fool?"
 "She shot a icy cold glare at me, and I felt my heart skip a beat."
 a"I mean... do you think someone masterminded this? There's no way the two of us could have just ended up here randomly."
-l"Really? Then how do you think this supposed mastermind is controlling us? I don't believe I've ever seen you for a moment in my life, even without my memory. Why would this mastermind put two strangers onto a deserted island town?
+l"Really? Then how do you think this supposed mastermind is controlling us? I don't believe I've ever seen you for a moment in my life, even without my memory. Why would this mastermind put two strangers onto a deserted island town?"
 l"In fact, why does this island town exist? There's no one else here, yet everything still looks clean and polished, like someone cleaned it."
 a"Well, you're right, it does sound really dumb. But still..."
 "My mind flickered back to the dream I had last night, with the green woman."
@@ -354,5 +354,19 @@ q"Do not be afraid, Atlas. You will be safe here. Come, I have much to tell you,
 "She called me child, like she knew me. Could she be someone that I know... is she on this island? Maybe she knows Luna too?"
 "I looked back at Luna, who was staring off into space, looking like she had just forgotten the conversation we just had."
 "Plus... even if I told her, I feel like she'd just laugh at me, and then say some insult before moving onto another topic."
+a"Uhm... yeah, it's nothing, Luna. Don't worry, it was just a random thought. Let's move on."
+"She muttered under her breath."
+l"Sure didn't sound like nothing..."
+a"Huh? Excuse me?"
+"Just as expected, Luna instantly snapped back at me full force, almost as if she was expecting it the whole time."
+l"I'm sorry, were you raised in a barn? Who ever said that you can just listen in on other people?! Some nerve do you have!"
+a"S-S-S-Sorry! Can we move on?"
+"Even when she calmed down, she still looked miffed, though honestly, that might've just been her normal face."
+l"Fine, I'm sorry, alright? I didn't mean to snap like that..."
+a"Did you just-"
+l"Yes. Now shut up before I take it back."
+a"O-O-Okay."
+l"The next area that we're gonna check out is the shopping district over there."
+"She pointed at the road just across from us, the one that was just past my house."
 
 
