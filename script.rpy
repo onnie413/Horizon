@@ -394,10 +394,13 @@ l"I'm not."
 a"Huh? But didn't you say that earlier when we were in the forest?"
 "Once again, my mind flickered back to the dream I had last night."
 a"I mean... if we're here, and we don't have our memories, it can't all just be a huge coincidence, right?"
+"Unlike last time, she didn't laugh at me. Instead, she looked deep in thought, considering the question."
 l"I suppose that's true. But then, let me ask you, where is this mystery person right now? That's what you were thinking about earlier, wasn't it?"
 a"Uh... yeah, that's right. But do you think... they have some kind of reason for throwing us onto this island? Like maybe... they have some kind of grudge against us?"
 l"Grudge? No... I don't believe that's likely... a more possible reason... is {b}nature{/b}."
 a"Nature?"
-l"Atlas, have you ever heard of a man named Jean-Jacque
+l"Atlas, have you ever heard of a man named Jean-Jacques Rosseau?"
+a"Rosseau? No... I have no clue. Wasn't he like... some French dude?"
+l"Well, I suppose you could call him that. Yes, he was \"The French Dude\"."
 
 
