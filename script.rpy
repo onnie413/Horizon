@@ -778,3 +778,5 @@ a"Luna might've just dismissed it, but I'm sure this coffee shop couldn't have j
 a"Lastly... whoever took this picture of us must also have some sort of connection! It has to mean something, about why they put it into my room!"
 "I would've liked to look around the island for more clues, but it was too dark, and honestly I was pretty tired."
 "Between walking around the island, and also having to clean up after Luna, a nap right now would be superb."
+"So, obviously coming back tomorrow would be the smart idea. I headed back around the shore to my house."
+
