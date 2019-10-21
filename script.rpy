@@ -872,6 +872,13 @@ l"Bye, see you at the library."
 "She walked off with the same sarcastic energy as always, but it looked a little more like a limp, seeing how she hadn't slept."
 a"Oh come on!"
 "Deciding there was nothing else to do at the moment, I took out the photo from yesterday, in my back pocket."
+"Maybe it all connected to Luna, maybe it all took place on this island. It would explain everything, but that would mean... {b}she's lying{/b}."
+"Still though, what kind of role do I play into this? Is there something about my memory that's so important?"
+"And this guy... the guy in the photo, maybe... he's hiding somewhere on this island. Why? I still have no idea."
+"At the end of the day though..."
+a"*sighs* I really can't be sure, without any evidence. It's not like this photo's gonna give me all the answers."
+
+
 
 
 
