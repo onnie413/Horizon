@@ -877,6 +877,17 @@ a"Oh come on!"
 "And this guy... the guy in the photo, maybe... he's hiding somewhere on this island. Why? I still have no idea."
 "At the end of the day though..."
 a"*sighs* I really can't be sure, without any evidence. It's not like this photo's gonna give me all the answers."
+"I guess I better get going. I'm pretty sure Luna wouldn't like it if I were still here by the time she got out. She'd probably think that I'm some kind of creeper or perv."
+"As I passed by the garden, I noticed what looked like a small slip of paper on the field of grass by the flower ring."
+a"What the hell?"
+"I stopped to take a look, to find that it wasn't a piece of paper at all. It was a photo. I picked it up, and put it up to the sun to get a better look."
+"This was... the same photo of Luna that was in her room yesterday. So... why was it in the garden of all places? Luna didn't come to the garden, right?"
+"The frame was blocking it, but by itself, it was pretty clear that this was from some kind of instant camera. Just like the one I had."
+"I took out the photo from my back pocket, and compared the two in the sunlight."
+"Luna said yesterday that it was all a huge coincidence, but it still threw me off that both of them looked like they were taken on the island."
+"The beach for Luna's photo, and the shopping district for mine, could it really be a coincidence? It didn't seem that likely."
+"Well, I'm pretty sure that Luna wouldn't be too happy if she found out that I lost her photo, so I decided to just set the topic aside and shoved both of the photos into my back pocket."
+
 
 
 
