@@ -887,9 +887,24 @@ a"What the hell?"
 "Luna said yesterday that it was all a huge coincidence, but it still threw me off that both of them looked like they were taken on the island."
 "The beach for Luna's photo, and the shopping district for mine, could it really be a coincidence? It didn't seem that likely."
 "Well, I'm pretty sure that Luna wouldn't be too happy if she found out that I lost her photo, so I decided to just set the topic aside and shoved both of the photos into my back pocket."
-
-
-
-
-
-
+"The library should be this way, through the forest."
+"How did Luna even get here? This \"road\" is just a bunch of sticks on the ground. If someone messed them up, you'd easily get lost."
+a"Gahh!"
+"It was a sharp branch overhead. It hit me, and some of it got stuck on my shirt too."
+a"Come off, you good for nothing weed!"
+"It was no use, the more I pulled, the more of them got stuck on me. There were thorns all over my pants too. Every inch of my body was covered in sharp plant growth."
+a"Argh!!! I hate this crap!"
+"I struggled and struggled, but still got tangled. Somehow, I managed to lift myself off the ground, and was being suspended off a branch by my shirt."
+a"This is seriously the worst, man..."
+"I was stuck completely, I couldn't even move my limbs without getting stabbed by something."
+a"I... oh come on! You've gotta be kidding me! Screw this forest!"
+a"Ugh, looks like I don't have any other option. I gotta untangle myself from this thing."
+"I started to unhook myself from the thorns. First, I freed my pants, and I was able to move my legs."
+a"Alright Atlas, you can totally do this, easy with the shirt... and..."
+"The moment I unhooked my shirt, I felt myself fall from the tree, with a loud crash."
+"The pain was sharp, and instant. I felt myself black out, and I fell unconscious."
+"By the time I had woken up, I found myself surrounded by leaves, and tiny branches."
+a"Ow... where the hell am I?"
+l"Wake up, idiot."
+a"Wha? Luna? When did you end up here?"
+l"I heard that crash from the beach. How did you get stuck in a tree, and then fall into a bush? I didn't know you were a clown of physical comedy too, though those clothes might say something else."
