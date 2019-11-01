@@ -955,7 +955,7 @@ a"Oh c'mon! It's just a few scratches!"
 l"So... it would seem like you didn't realize that half your back is all exposed."
 a"More manliness to show, obviously!"
 l"You're not funny, Atlas."
-a"Oh, give me some credit for trying!
+a"Oh, give me some credit for trying!"
 l"..."
 "For a second, I thought I saw what looked like a small blush coming from her, but as she caught me looking at her.."
 "She instantly toughened up into her usual annoyed face."
