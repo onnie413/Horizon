@@ -1023,7 +1023,7 @@ l"You're such a simple-minded person. I bet even breathing's a task for you. Loo
 a"Uh... here goes nothing."
 a"\"Truth had left the realm of earth, and the Sky had left the realm of the Sea.\""
 a"\"Long ago, these two had lived in harmony, within the petals of a flower.\""
-a"\"One posessed the heart of blue, and one had a soul of earth, the two had yet to meet\"."
+a"\"One posessed the heart of blue, and one had a soul of earth, the two had yet to meet.\""
 a"\"As the flower grew and grew, an infestation of locusts appeared.\""
 a"\"Truth had gone, and no titan could hold back the sky.\""
 a"That's it. Luna, do you have any idea what this means?"
