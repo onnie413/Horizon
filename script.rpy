@@ -1,4 +1,4 @@
-# NOTES FOR YOU PEOPLE:
+# NOTES FOR YOU PEOPLE: 
 # a = Atlas (for when he speaks directly)
 # g = Game (a message from the game directly to the player)
 # l = Luna (for when Luna speaks directly)
@@ -6,7 +6,7 @@
 # No letter assigned: (internal dialogue, like thinking, or narration)
 # In addition, before Atlas gains his name, he will speak in \"*insert text here\"
 
-# DAY ONE
+# DAY ONE <-- proposed edit: eat my ass
 
 "The soft sound of ocean waves hitting the soft shore was the first thing I remembered."
 "The next thing I remembered was the soft, warm, and bright rays of sunshine on my face, waking me from my gentle sleep."
